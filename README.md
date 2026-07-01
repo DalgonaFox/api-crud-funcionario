@@ -1,4 +1,4 @@
-<h1 align="center"> 💼 API CRUD de Funcionários </h1>
+<h1 align="center"> API CRUD de Funcionários </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -6,24 +6,15 @@
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
 </p>
 
-<p align="center">
-  <a href="#-funcionalidades">Funcionalidades</a> •
-  <a href="#-tecnologias">Tecnologias</a> •
-  <a href="#-como-executar">Como Executar</a>
-</p>
-
 A **API CRUD de Funcionários** é um sistema backend desenvolvido para gerenciar o quadro de funcionários de uma empresa. A aplicação permite realizar operações essenciais (Criar, Ler, Atualizar e Deletar) de forma simples e eficiente, seguindo as melhores práticas de desenvolvimento de APIs RESTful.
-
----
 
 ## Funcionalidades
 
-- [x] **Cadastro:** Adicionar novos funcionários com seus respectivos dados.
-- [x] **Listagem:** Buscar todos os funcionários ou um específico pelo ID.
-- [x] **Atualização:** Modificar informações de funcionários já cadastrados.
-- [x] **Exclusão:** Remover funcionários do banco de dados.
-
----
+Conforme a proposta de um CRUD (Create, Read, Update, Delete), o sistema possui as seguintes funcionalidades:
+- **Cadastro:** Adicionar novos funcionários com seus respectivos dados.
+- **Listagem:** Buscar todos os funcionários ou um específico pelo ID.
+- **Atualização:** Modificar informações de funcionários já cadastrados.
+- **Exclusão:** Remover funcionários do banco de dados.
 
 ## Tecnologias
 
@@ -33,8 +24,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[Spring Boot](https://spring.io/projects/spring-boot)**
 - **[Maven](https://maven.apache.org/)**
 - **Spring Data JPA**
-
----
+- **Hibernate**
 
 ## Como Executar
 
